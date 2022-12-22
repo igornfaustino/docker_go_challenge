@@ -1,8 +1,10 @@
-# Desafio docker fullcycle
+# Docker challenge 1
 
-Link do docker hub: https://hub.docker.com/r/igornfaustino/fullcycle
+Create a small image (less than 2mb) that prints "Full cycle rocks!!" Using golang
 
-## Como rodar
+Docker hub: https://hub.docker.com/r/igornfaustino/fullcycle
+
+## How to run
 
 ```bash
 docker run igornfaustino/fullcycle
